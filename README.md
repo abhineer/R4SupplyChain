@@ -1,5 +1,6 @@
 # R4SupplyChain
-R Code for  Supply Chain Analytics
+R Package for  Supply Chain Analytics
+## Functions
 * Economic Order Quantity
 * News Vendor Model
 * Safety Stock Calculator
